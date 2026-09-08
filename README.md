@@ -205,7 +205,3 @@ No packages to install. Runs as an unprivileged user; root only adds the failed-
 - Configurable thresholds via a config file rather than editing the script
 
 ---
-
-## License
-
-MIT
